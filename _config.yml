@@ -31,3 +31,5 @@ sass:
 
 # Output
 permalink: /:year/:month/:slug/
+
+theme: jekyll-theme-minimal
